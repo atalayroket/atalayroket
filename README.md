@@ -1,5 +1,5 @@
 <h1 align="center">ATALAY ROKET TAKIMI</h1>
-<h3 align="center">Karabük Üniversitesi</h3>
+<h3 align="center">İSTİKBAL GÖKLERDEDİR !</h3>
 
 Karabük Üniversitesi öğrencileri olarak 4 senedir Teknofest'in düzenlediği Roket Yarışması'na katılıyoruz. Takımımız; yönetim, mekanik ve elektronik olmak üzere 3 ekip beraber havacılık ve savunma sanayii sistemlerine üzerinde çalışma yapıyoruz.
 

@@ -14,4 +14,4 @@ Karabük Üniversitesi öğrencileri olarak 4 senedir Teknofest'in düzenlediği
 
 </details>
 
-Bize [link](https://linktr.ee/atalayroket) üzerinden ulaşabilirsiniz.
+Tüm sosyal medya hesaplarımıza [link](https://linktr.ee/atalayroket) üzerinden ulaşabilirsiniz.

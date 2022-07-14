@@ -1,7 +1,5 @@
-<h1 align="center">ATALAY ROKET TAKIMI</h1> 
+<h1 align="center">ATALAY ROKET TAKIMI</h1>
 <h3 align="center">Karabük Üniversitesi</h3>
-
-https://linktr.ee/atalayroket
 
 Karabük Üniversitesi öğrencileri olarak 4 senedir Teknofest'in düzenlediği Roket Yarışması'na katılıyoruz. Takımımız; yönetim, mekanik ve elektronik olmak üzere 3 ekip beraber havacılık ve savunma sanayii sistemlerine üzerinde çalışma yapıyoruz.
 
@@ -15,3 +13,5 @@ Karabük Üniversitesi öğrencileri olarak 4 senedir Teknofest'in düzenlediği
 - Teknofest Roket Yarışması 2022 Orta İrtifa Finalisti / Atalay Roket Takımı-Kartekin
 
 </details>
+
+Bize [link](https://linktr.ee/atalayroket) üzerinden ulaşabilirsiniz.

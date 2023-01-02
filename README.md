@@ -10,8 +10,8 @@ Karabük Üniversitesi öğrencileri olarak 4 senedir Teknofest'in düzenlediği
 - Teknofest Roket Yarışması 2020 Alçak İrtifa Finalisti  / Baybars Roket Takımı-Karaşahin
 - Teknofest Roket Yarışması 2020 Orta İrtifa Finalisti / Atalay Roket Takımı-Mızrak
 - Teknofest Roket Yarışması 2021 Yüksek İrtifa Finalisti / Atalay Roket Takımı-Mızrak
-- Teknofest [Roket Yarışması](https://www.teknofest.org/tr/competitions/competition/31) 2022 Orta İrtifa Finalisti / Atalay Roket Takımı-Kartekin
-- Teknofest [Dikey İnişli Roket Yarışması](https://www.teknofest.org/tr/competitions/competition/87) 2022 Derece 🥈 / Atalay Roket Takımı-Kartekin
+- Teknofest Roket Yarışması 2022 Orta İrtifa Finalisti / Atalay Roket Takımı-Kartekin
+- Teknofest Dikey İnişli Roket Yarışması 2022 Derece 🥈 / Atalay Roket Takımı-Kartekin
 
 </details>
 

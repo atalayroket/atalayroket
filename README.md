@@ -12,6 +12,7 @@ Karabük Üniversitesi öğrencileri olarak 4 senedir Teknofest'in düzenlediği
 - Teknofest Roket Yarışması 2021 Yüksek İrtifa Finalisti / Atalay Roket Takımı-Mızrak
 - Teknofest Roket Yarışması 2022 Orta İrtifa Finalisti / Atalay Roket Takımı-Kartekin
 - Teknofest Dikey İnişli Roket Yarışması 2022 Derece 🥈 / Atalay Roket Takımı-Kartekin
+- Teknofest Dikey İnişli Roket Yarışması 2023 Finalisti / Atalay Roket Takımı-Kartekin
 
 </details>
 
